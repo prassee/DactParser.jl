@@ -1,0 +1,11 @@
+name = "DactParser"
+uuid = "11eeaae5-be1e-4218-983c-3d606d89215f"
+keywords = ["dat", "parser", "dct", "parser"]
+license = "MIT"
+desc = "DactParser - parses the .dat file supported types on dct to a DataFrame"
+author = "Prassee"
+repo = "https://github.com/prassee/DactParser.jl.git"
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
